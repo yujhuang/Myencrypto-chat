@@ -13,7 +13,7 @@ Origin code of the collaboration project on [Encrypto_chat](https://github.com/m
 _OTR_: [Off-The-Record protocol](https://github.com/arlolra/otr)
 
 
-_SMP_: Social millionaire Protocol(https://github.com/arlolra/otr#socialist-millionaire-protocol)
+_SMP_: [Social millionaire Protocol](https://github.com/arlolra/otr#socialist-millionaire-protocol)
 
 
 ## Usage
