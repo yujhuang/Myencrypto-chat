@@ -1,5 +1,7 @@
 # Myencrypto-chat
 This Chat is designed for secured chatting with OTR protocol message encryption and SMP protocol for authentication key pairing 
+
+
 Origin code of the collaboration project on [Encrypto_chat](https://github.com/mbrashid62/Encrypto-Chat)
 
 
