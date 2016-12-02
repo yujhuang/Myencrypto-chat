@@ -2,9 +2,11 @@
 This Chat is designed for secured chatting with OTR protocol message encryption and SMP protocol for authentication key pairing 
 
 
-## demo
+## Demo
 [Only accept two connections please close chat instances when you are done](https://newworkspace-yujhuang.c9users.io:8080/client)
 
+
+## Protocols
 _OTR_: [Off-The-Record protocol](https://github.com/arlolra/otr)
 
 
