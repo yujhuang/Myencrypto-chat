@@ -1,5 +1,6 @@
 # Myencrypto-chat
 This Chat is designed for secured chatting with OTR protocol message encryption and SMP protocol for authentication key pairing 
+Origin code of the collaboration project on [Encrypto_chat](https://github.com/mbrashid62/Encrypto-Chat)
 
 
 ## Demo
@@ -17,7 +18,7 @@ _SMP_: Social millionaire Protocol(https://github.com/arlolra/otr#socialist-mill
 1. Use Webstorm to open this project
 
 
-2. Use command line to start the server: 'node app.js' (make sure you have npm insatlled in your system)
+2. Use command line to start the server: 'node app.js' (make sure you have npm installed in your system)
 
 
 3. open client.html on webstorm project and open instances on Chrome 
